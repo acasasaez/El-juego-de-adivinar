@@ -7,3 +7,8 @@ while intento != número_intento:
         print ("Demasiado pequeño")
         número_intento = número_intento + 1
         intento = int (input ("Elige un número del 0 al 99: "))
+    if intento > numero:
+        print ("Demasiado grande")
+        número_intento = número_intento + 1
+        intento = int (input ("Elige un número del 0 al 99: "))
+        
