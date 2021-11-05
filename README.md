@@ -8,7 +8,7 @@ El diagrama de flujo que tenemos en nuestro código es el siguiente:
 
 ![diagrama de flujo adivine el número](/acasasaez/El-juego-de-adivinar-2.0/figmafoto.png)
 
-``importar aleatoriamente
+```importar aleatoriamente
 numero = aleatorio. randint(0,99)
 intento = int (input ("Elige un número del 0 al 99: "))
 numero_intento= 0
@@ -24,4 +24,4 @@ while intento != numero_intento:
     if numero == intento:
         print ("Enhorabuena, has acertado") 
         número_intento = número_intento + 1
-        print ("Número de intentos:" + str(número_intento))``
+        print ("Número de intentos:" + str(número_intento))
