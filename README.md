@@ -5,3 +5,5 @@ https://github.com/acasasaez/El-juego-de-adivinar-2.0.git
 
 Hemos resuelto un juego de adivinar con valores enteros entre 0 y 99.
 El diagrama de flujo que tenemos en nuestro código es el siguiente:
+
+![diagrama de flujo adivine el número](C:\Users\andre\OneDrive\Escritorio)
